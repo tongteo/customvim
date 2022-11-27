@@ -1,10 +1,6 @@
 local M = {}
 
 M.general = {
-  n = {
-    ["jh"] = {"<cmd>wq<cr>"},
-  },
-
   i = {
     ["jk"] = {"<esc>"},
   }
