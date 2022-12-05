@@ -2,6 +2,14 @@ local plugins = {
 
   ["nvim-lua/plenary.nvim"] = { module = "plenary" },
 
+--   ["puremourning/vimspector"] = {
+--   cmd = { "VimspectorInstall", "VimspectorUpdate" },
+--   fn = { "vimspector#Launch()", "vimspector#ToggleBreakpoint", "vimspector#Continue" },
+--   config = function()
+--     require("configs.vimspector").setup()
+--   end,
+-- },
+
   ["lewis6991/impatient.nvim"] = {},
 
   ["wbthomason/packer.nvim"] = {

@@ -13,9 +13,6 @@ M.hop = {
 
 }
 
-M.vimspector = {
-
-}
 
 
 return M
