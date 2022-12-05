@@ -7,8 +7,5 @@ return {
          require'hop'.setup { keys = 'etovxqpdygfblzhckisuran' }
       end
   },
-<<<<<<< HEAD
-=======
       ["github/copilot.vim"] = { branch = "release" },
->>>>>>> 60b66be (copilot github)
 }
